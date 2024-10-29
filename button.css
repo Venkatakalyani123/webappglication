@@ -1,0 +1,91 @@
+  
+
+
+#button{
+    border-radius: 3px;
+    box-sizing: 50px;
+    color:sandybrown;
+    background-color: darkred;
+    font-size: 20px;
+    font-weight: 15px;
+    border-color:darkgreen;
+}
+ #button :hover{
+    font-size: 20px;
+    border-radius: 4px;
+    border-color: pink;
+    box-sizing: 40px;
+ }
+h6{
+    color:rgb(187, 25, 25);
+    font-weight: 70px;
+    font-size: 25px;  
+}
+.card{
+    border-color: green;
+    border-width: 1px;
+    border-radius: 3px;
+}
+.alert{
+    font-size: 23px;
+    color: hwb(0 0% 100% / 0.93);
+}
+#hom{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 21px;  
+    color:black; 
+    font-weight: 16px;
+   }
+.list li{
+    text-align: center;
+    list-style-type: none;
+   }
+
+  #col{
+    color: black;
+  }
+  a{
+    text-decoration: none;
+    }
+ 
+   .logoo{
+    text-align:center;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: maroon;
+    font-weight: 25px;
+   }
+   #bordr{
+    margin: 14px;
+    padding-top: 140px;
+    padding-left: 120px;
+    padding-bottom: 250px;
+}
+.imagess{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+}
+#pa{
+    font-size: 30px;
+    font-style: italic;
+    font-weight:25px;
+    color: black;
+}
+#btnn{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    font-style: italic;
+    font-weight:26px;
+    color: black;
+}
+
+
+
+
+   
+   
+
+
+

@@ -1,0 +1,30 @@
+[type="text"]{
+    text-align: justify;
+    border: 1px solid black;
+    border-radius: 3px;
+    block-size: 40px;
+    color: black;
+}
+#sign{
+    font-size: 20px;
+    border-radius: 3px;
+    font-weight: 30px;
+    color: black;
+}
+
+#country {
+    text-align: justify;
+    border: 1px solid black;
+    border-radius: 4px;
+    block-size: 40px;
+} 
+
+.btn{
+    color: white;
+    font-size: 20px;
+    font-weight: 20px;
+    border-radius: 3px;
+}
+
+ 
+ 
